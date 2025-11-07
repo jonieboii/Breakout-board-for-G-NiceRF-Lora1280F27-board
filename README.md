@@ -1,4 +1,4 @@
-#Legal Disclaimer:
+# Legal Disclaimer:
 USER BEWARE. This is a simple breakout board created as an aid for my own prototyping purposes. 
 Not withstanding the preceding and the above, DOWNLOAD, OR USE **SOLELY AT YOUR OWN RISK**. 
 No warranty or representation is offered, nor should any be implied, of any kind, whatsoever. 
