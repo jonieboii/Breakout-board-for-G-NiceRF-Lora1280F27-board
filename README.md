@@ -9,7 +9,7 @@ No updates or corrections are promised, nor should any updates or corrections be
 
 # G-NiceRF LoRa1280F27 Breakout Board
 
-This is an open-source breakout board for the **G-NiceRF LoRa1280F27** 500mW 2.4GHz LoRa module. Please note that this breakout board is not for the  Lora1280F27-TCXO variant which is also produced by G-Nice RF.
+This is a simple breakout board for the **G-NiceRF LoRa1280F27** 500mW 2.4GHz LoRa module. Please note that this breakout board is not for the  Lora1280F27-TCXO variant which is also produced by G-Nice RF.
 
 ## Features
 I have Breaken out all 18 pins from the module to standard 2.54mm headers and included two decoupling capacitors (10uF and 100nF) near VCC for stable operation.
