@@ -19,7 +19,7 @@ The module has a full ground plane on both the top and bottom layers with stitch
 ## How to Use
 
 * **For KiCad Users:** The full KiCad 9 project is in the `GNice-RF SX1280 F27 Project Files` folder. You must also add the libraries from the `Custom footprint and symbol` folder to your KiCad global libraries.
-* **For Manufacturing:** A `.zip` file is in the `GNiceRF SX1280 Gerbers for Fab` folder. You can upload this file directly to any PCB manufacturer.
+* **For Manufacturing:** A `GNiceRF SX1280 Gerbers for Fab.zip` file is provided. You can upload this file directly to any PCB manufacturer.
 
 For pinout, refer to the official G-NiceRF LoRa1280F27 datasheet.
 <img width="711" height="842" alt="image" src="https://github.com/user-attachments/assets/cf0d3281-a41a-4d17-9663-2ae6d42b2808" />
