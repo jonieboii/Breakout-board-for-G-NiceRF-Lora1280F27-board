@@ -14,7 +14,7 @@ This is a simple breakout board for the **G-NiceRF LoRa1280F27** 500mW 2.4GHz Lo
 ## Features
 I have Breaken out all 18 pins from the module to standard 2.54mm headers and included two decoupling capacitors (10uF and 100nF) near VCC for stable operation.
 I also  did a  **50-ohm coplanar waveguide** trace for the antenna and has inlcuded footprint for a standard **U.FL connector** for easily connecting the antennas.
-The module has a full ground plane on both the top and bottom layers with stitching vias for low noise . My appologies for the messy schematic
+The module has a full ground plane on both the top and bottom layers with stitching vias for low noise . My appologies for the messy schematic.
 
 ## How to Use
 
